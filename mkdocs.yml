@@ -1,0 +1,4 @@
+site_name: Marshmellow Generator
+nav:
+    - Home: index.md
+    - About : about.md 
